@@ -2,7 +2,7 @@
 
 # JavaSec
 
-从Y4那里Fork来自用的魔改笔记
+从Y4大佬那里Fork来自用的魔改笔记
 
 ## 1.基础篇
 
@@ -89,7 +89,7 @@ https://fushuling.com/index.php/2023/01/30/java%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE
   - [Jackson原生反序列化Gadgets(实用)](https://xz.aliyun.com/t/12485#toc-5)
     - [Jackson构造过程会触发利用导致中断可通过重写类解决(附上demo学习)](https://github.com/Y4tacker/JavaSec/blob/main/3.FastJson%E4%B8%93%E5%8C%BA/Jackson%E5%8E%9F%E7%94%9F%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96Gadget/Jackson.txt(%E6%94%B9zip%E5%90%8E%E7%BC%80%E8%A7%A3%E5%8E%8B).txt)
     - [从JSON1链中学习处理JACKSON链的不稳定性(使用JdkDynamicAopProxy让触发更稳定)](https://xz.aliyun.com/t/12846#toc-4)
-    - 高版本JDK的Jackson利用链：http://101.36.122.13:4000/2025/08/31/%E9%AB%98%E7%89%88%E6%9C%ACJDKSpring%E5%8E%9F%E7%94%9F%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%93%BE/
+    - [高版本JDK的Jackson利用链](http://101.36.122.13:4000/2025/08/31/%E9%AB%98%E7%89%88%E6%9C%ACJDKSpring%E5%8E%9F%E7%94%9F%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%93%BE/)
 
 - Fastjson
 
