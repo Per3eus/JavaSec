@@ -49,6 +49,7 @@
 很早前学了，后面补上，更多是说一点关键的东西，不会很详细，好吧这里再拓展成反序列化专区好了
 
 如果想系统学习CC链、CB链的话这部分还是推荐p牛的[Java安全漫谈](https://github.com/phith0n/JavaThings)，我只是简单写写便于自己复习而已(这部分看我下面的share并不适合新人，过了这么久看过网上很多文章还是觉得P牛写的更适合新人)
+https://fushuling.com/index.php/2023/01/30/java%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0/
 
 - [Java 反序列化取经路(强推)](https://su18.org/post/ysuserial/)
 - [Java反序列化之URLDNS](https://github.com/Y4tacker/JavaSec/blob/main/%E5%85%B6%E4%BB%96/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%B9%8BURLDNS/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E4%B9%8BURLDNS.md)
