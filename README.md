@@ -2,17 +2,7 @@
 
 # JavaSec
 
-![JavaSec](https://socialify.git.ci/Y4tacker/JavaSec/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
-
-## 0.For Me
-
-仅仅只是想写给自己看
-
-一个记录我Java安全学习过程的仓库，本仓库不是真正意义上的教学仓库(rep中的内容都是我在平时的一些笔记没有很强逻辑性，内容水平自然也是参差不齐，可能有些对我来说很简单的便忽略不计对其他人来说却是难点，因此作为一个学习目录的话可能会好很多)，单纯这是笔者简单记一些笔记，顺便见证自己从0到0.1的过程吧，另外后面如果看到一些好的东西在学习完之后也会贴上链接，少了很多介绍性的东西，以后等厉害了再慢慢补充吧.当然如果感觉还不错的话，师傅们记得给个 Star 呀 ~
-
-<p align="right">@Y4tacker</p>
-
-<p align="right">2021年10月18日，梦的开始</p>
+从Y4那里Fork来自用的魔改笔记
 
 ## 1.基础篇
 
