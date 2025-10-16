@@ -36,7 +36,6 @@
 
 ## 2.反序列化
 
-很早前学了，后面补上，更多是说一点关键的东西，不会很详细，好吧这里再拓展成反序列化专区好了
 
 如果想系统学习CC链、CB链的话这部分还是推荐p牛的[Java安全漫谈](https://github.com/phith0n/JavaThings)，我只是简单写写便于自己复习而已(这部分看我下面的share并不适合新人，过了这么久看过网上很多文章还是觉得P牛写的更适合新人)
 https://fushuling.com/index.php/2023/01/30/java%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0/
@@ -137,7 +136,7 @@ https://fushuling.com/index.php/2023/01/30/java%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE
   - [fastjson探测class/如何判断是fastjson、jackson、gson](https://github.com/safe6Sec/Fastjson)
   - [记一次 Fastjson Gadget 寻找](https://mp.weixin.qq.com/s/dJkZuf6Ho6EK71bbnXI0EA)
 
-## 4.Weblogic专区(虽然也挖了一堆，暂时不想写)
+## 4.Weblogic专区
 - [T3协议学习](https://github.com/Y4tacker/JavaSec/blob/main/4.Weblogic专区/T3%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0/T3%E5%8D%8F%E8%AE%AE%E5%AD%A6%E4%B9%A0.md)
 - [CVE-2015-4852复现分析](https://github.com/Y4tacker/JavaSec/blob/main/4.Weblogic专区/CVE-2015-4852%E5%A4%8D%E7%8E%B0%E5%88%86%E6%9E%90/CVE-2015-4852%E5%A4%8D%E7%8E%B0%E5%88%86%E6%9E%90.md)
 - [Weblogic使用ClassLoader和RMI来回显命令执行结果](https://xz.aliyun.com/t/7228)
@@ -516,7 +515,7 @@ https://fushuling.com/index.php/2023/01/30/java%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE
 
 ## 优质博客
 
-- [Y4tacker(自己的能不写吗)](https://y4tacker.github.io/)
+- [Y4tacker](https://y4tacker.github.io/)
 - [三梦](https://threedr3am.github.io/)
 - [su18](https://su18.org/)
 - [landgrey](https://landgrey.me/)
