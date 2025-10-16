@@ -1,3 +1,0 @@
-对于Java原生反序列化漏洞，Gadget链的挖掘是其中的难点。
-Jackson依赖库(com.fasterxml.jackson.core:jackson-databind，版本>=2.10.0，当前最新版本为2.13.4)在产品中频繁出现，如Spring框架本身依赖jackson。
-Jackson依赖库存在通用原生反序列化利用gadget。
