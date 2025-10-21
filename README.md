@@ -3,6 +3,7 @@
 # JavaSec
 
 从Y4大佬那里Fork来自用的魔改笔记
+[基础知识库](https://byaaronluo.github.io/)
 
 ## 1.基础篇
 
